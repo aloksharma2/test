@@ -1,3 +1,8 @@
+
+This is a new branch in test folder of readme.md
+and this can be editted many number of times. Then you can merge this file with master's. 
+All good to go.
+
 <!--- Types of heading --->
 
 # Heading 1
