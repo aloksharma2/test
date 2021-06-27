@@ -51,7 +51,10 @@ _This is bold text-2._
 
 
 <!--- Table - This will look like a table in Github --->
+<!--- |---|---|---| --->
+<!--This line is mandatory for table-->
 | S.no.|name|contact|
+|---|---|---|
 |1|alok|919293949|
 |2|anil|892128918|
 |3|lokesh|782918291|
@@ -72,9 +75,9 @@ _This is bold text-2._
 
 <!--- Checklist or To-do list --->
 <!--- This will look better in github --->
-- [*] item 1
+- [x] item 1
 - [ ] item 2
-- [*] item 3
+- [x] item 3
 - [ ] item 4
 
 <!--- I will add more if it's easy to use. --->
