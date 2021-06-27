@@ -67,9 +67,9 @@ _This is bold text-2._
 
 <!--- Checklist or To-do list --->
 <!--- This will look better in github --->
-- [*] item 1
+- [x] item 1
 - [ ] item 2
-- [*] item 3
+- [x] item 3
 - [ ] item 4
 
 <!--- I will add more if it's easy to use. --->
