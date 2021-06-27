@@ -1,3 +1,8 @@
+
+This is a new branch in test folder of readme.md
+and this can be editted many number of times. Then you can merge this file with master's. 
+All good to go.
+
 <!--- Types of heading --->
 
 # Heading 1
@@ -46,8 +51,15 @@ _This is bold text-2._
 
 
 <!--- Table - This will look like a table in Github --->
+<<<<<<< HEAD
 |SNo.|name|contact|
 |----|---|---|
+=======
+<!--- |---|---|---| --->
+<!--This line is mandatory for table-->
+| S.no.|name|contact|
+|---|---|---|
+>>>>>>> roten
 |1|alok|919293949|
 |2|anil|892128918|
 |3|lokesh|782918291|
