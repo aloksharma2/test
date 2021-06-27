@@ -51,15 +51,8 @@ _This is bold text-2._
 
 
 <!--- Table - This will look like a table in Github --->
-<<<<<<< HEAD
 |SNo.|name|contact|
 |----|---|---|
-=======
-<!--- |---|---|---| --->
-<!--This line is mandatory for table-->
-| S.no.|name|contact|
-|---|---|---|
->>>>>>> roten
 |1|alok|919293949|
 |2|anil|892128918|
 |3|lokesh|782918291|
