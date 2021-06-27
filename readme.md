@@ -46,10 +46,11 @@ _This is bold text-2._
 
 
 <!--- Table - This will look like a table in Github --->
-| S.no. | name | contact |
-| 1 | alok | 919293949 |
-| 2 | anil | 892128918 |
-| 3 | lokesh | 782918291 |
+|SNo.|name|contact|
+|----|---|---|
+|1|alok|919293949|
+|2|anil|892128918|
+|3|lokesh|782918291|
 
 <!--- ul --->
 * item 1
